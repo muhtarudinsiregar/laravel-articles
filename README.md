@@ -6,3 +6,4 @@ A collection of laravel articles
 - [Laraguide](https://laraguide.surge.sh/docs/building-api/)
 - [Eloquent Cheatsheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
 - [Laravel Blade Filters Package](https://laravel-news.com/laravel-blade-filters-package)
+- [Limit String with str_limit()](https://laravel-news.com/str_limit)
