@@ -9,3 +9,4 @@ A collection of laravel articles
 - [Limit String with str_limit()](https://laravel-news.com/str_limit)
 - [Best Laravel Security Practices](https://www.cloudways.com/blog/best-laravel-security-practices/)
 - [Laravel Core Adventures](https://laravel-news.com/laravel-core-adventures)
+- [Deploy a RESTful API using Laravel and Docker](https://dev.to/jfernancordova/deploy-a-restful-api-using-laravel-and-docker-31a4)
