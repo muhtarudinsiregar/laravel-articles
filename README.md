@@ -12,3 +12,4 @@ A collection of laravel articles
 - [Deploy a RESTful API using Laravel and Docker](https://dev.to/jfernancordova/deploy-a-restful-api-using-laravel-and-docker-31a4)
 - [Laravel Best Practices](http://www.laravelbestpractices.com/)
 - [Laravel Image Upload Tutorial](https://appdividend.com/2018/06/02/laravel-avatar-image-upload-tutorial-with-example/)
+- [Laravel Search String Packages](https://laravel-news.com/laravel-search-string)
