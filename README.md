@@ -13,4 +13,3 @@ A collection of laravel articles
 - [Laravel Best Practices](http://www.laravelbestpractices.com/)
 - [Laravel Image Upload Tutorial](https://appdividend.com/2018/06/02/laravel-avatar-image-upload-tutorial-with-example/)
 - [Laravel Search String Packages](https://laravel-news.com/laravel-search-string)
-- [Unknown Gems of Laravel](https://meramustaqbil.com/2019/03/23/20-un-known-gems-of-laravel/)
