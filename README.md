@@ -14,3 +14,4 @@ A collection of laravel articles
 - [Laravel Image Upload Tutorial](https://appdividend.com/2018/06/02/laravel-avatar-image-upload-tutorial-with-example/)
 - [Laravel Search String Packages](https://laravel-news.com/laravel-search-string)
 - [Laravel Tips Trick & Best Practices with Eloquent](https://chrisgmyr.com/2018/08/tips-tricks-and-good-practices-with-laravels-eloquent)
+- [Laravel Best Practices - Cloudways](https://www.cloudways.com/blog/laravel-best-practices/)
