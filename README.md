@@ -17,3 +17,4 @@ A collection of laravel articles
 - [Laravel Best Practices - Cloudways](https://www.cloudways.com/blog/laravel-best-practices/)
 - [Laravel Performance Optimization](https://www.cloudways.com/blog/laravel-performance-optimization/)
 - [5 Quick Laravel snippet](https://dev.to/alicki/5-quick-laravel-snippets-1l8b)
+- [Laravel Tricks](https://laravel-tricks.com/)
