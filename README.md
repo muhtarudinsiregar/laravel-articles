@@ -19,3 +19,4 @@ A collection of laravel articles
 - [5 Quick Laravel snippet](https://dev.to/alicki/5-quick-laravel-snippets-1l8b)
 - [Laravel Tricks](https://laravel-tricks.com/)
 - [Advanced Laravel: 14 Topics and Links to Learn Them](https://laraveldaily.com/advanced-laravel-20-topics-and-links-to-learn-them/)
+- [Laravel Tips #1](https://pgtruesdell.com/laravel-tips-1/)
