@@ -20,3 +20,4 @@ A collection of laravel articles
 - [Laravel Tricks](https://laravel-tricks.com/)
 - [Advanced Laravel: 14 Topics and Links to Learn Them](https://laraveldaily.com/advanced-laravel-20-topics-and-links-to-learn-them/)
 - [Laravel Tips #1](https://pgtruesdell.com/laravel-tips-1/)
+- [Laravel features you may not know about](https://webdevetc.com/blog/laravel-features-you-may-not-know-about#new_tips_added_2019)
